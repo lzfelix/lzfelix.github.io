@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: # > 
   # A Machine Learning Engineer with MSc. in Computer Science
